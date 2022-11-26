@@ -148,3 +148,5 @@
 
     git branch -d <branch name>
 
+## Отмена слияния веток
+
